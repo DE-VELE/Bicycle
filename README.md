@@ -1,8 +1,8 @@
 # BicycleLang
 오직 한국어로만 이루어진 인터프리터 언어
 
-## Windows
-cmd에서 python start.pyc
+## 인터프리터
+터미널에서 python3 시작.py
 
-## macOS, Linux
-terminal에서 python3 start.pyc terminal
+## 컴파일러
+터미널에서 python3 자전거.py 파일명.byc
